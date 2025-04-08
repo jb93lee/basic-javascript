@@ -45,3 +45,10 @@ console.log("비건 샌드위치 주문: " + orderSandwich('vegan'));
 기본 샌드위치 주문: 🥖 + 🥬 + 🍅 + 🧀 + 🥓
 비건 샌드위치 주문: 🥖 + 🥬 + 🍅 + 🥑 + 🥒
 */
+
+const daysOfWeek = ['일', '월', '화', '수', '목', '금', '토'];
+console.log("🚀 ~ daysOfWeek:", daysOfWeek)
+
+const students = ["철수", "영희", "민수", "지민"];
+const me = students[0];
+console.log("🚀 ~ me:", me);
